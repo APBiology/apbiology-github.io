@@ -1,18 +1,26 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="apbiology.github.io" resolutions="1x" timestamp="1496128113751">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="apbiology.github.io" resolutions="1x" timestamp="1496131225126">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4177768467" ref="index"/>
+    <file name="index.css" crc="3787921243" ref="index"/>
+    <file name="home.css" crc="463738247" ref="home"/>
+    <file name="evolution-contents.css" crc="3787921243" ref="evolution-contents"/>
+    <file name="contact-us.css" crc="245499668" ref="contact-us"/>
+    <file name="lesson-base-_guidelines_.css" crc="227567449" ref="lesson-base-(guidelines)"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="36584860" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home:evolution-contents:lesson-base-(guidelines):contact-us"/>
+    <file name="museutils.js" crc="163421577" ref="index:home:evolution-contents:lesson-base-(guidelines):contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home:evolution-contents:lesson-base-(guidelines):contact-us"/>
+    <file name="museconfig.js" crc="36584860" ref="index:home:evolution-contents:lesson-base-(guidelines):contact-us"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:home:evolution-contents:lesson-base-(guidelines):contact-us"/>
+    <file name="require.js" crc="244322403" ref="index:home:evolution-contents:lesson-base-(guidelines):contact-us"/>
   </folder>
   <folder name="images">
-    <file name="u161-4.png" crc="414207269" ref="index"/>
+    <file name="u161-4.png" crc="414207269" ref="home"/>
   </folder>
-  <file name="index.html" crc="3941615242" seo="true" mt="1496128086710" redirect="true"/>
+  <file name="index.html" crc="188486290" seo="true" mt="1496128311091" redirect="false"/>
+  <file name="home.html" crc="447967684" seo="true" mt="1496128366461" redirect="true"/>
+  <file name="evolution-contents.html" crc="518174725" seo="true" mt="1496128281841" redirect="false"/>
+  <file name="lesson-base-(guidelines).html" crc="4155713791" seo="true" mt="1496128947010" redirect="true"/>
+  <file name="contact-us.html" crc="4158878760" seo="true" mt="1496128387866" redirect="true"/>
 </manifest>

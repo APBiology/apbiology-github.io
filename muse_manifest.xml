@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="apbiology.github.io" resolutions="1x" timestamp="1496127833168">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="apbiology.github.io" resolutions="1x" timestamp="1496128113751">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="316433105" ref="index"/>
+    <file name="index.css" crc="4177768467" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,5 +14,5 @@
   <folder name="images">
     <file name="u161-4.png" crc="414207269" ref="index"/>
   </folder>
-  <file name="index.html" crc="15895085" seo="true" mt="1496127801971" redirect="true"/>
+  <file name="index.html" crc="3941615242" seo="true" mt="1496128086710" redirect="true"/>
 </manifest>

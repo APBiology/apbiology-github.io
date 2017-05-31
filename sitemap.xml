@@ -7,26 +7,32 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://apbiology.github.io/evolution-contents.html</loc>
-    <lastmod>2017-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://apbiology.github.io/lesson-base-(guidelines).html</loc>
     <lastmod>2017-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://apbiology.github.io/evolution-contents.html</loc>
+    <lastmod>2017-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://apbiology.github.io/contact-us.html</loc>
-    <lastmod>2017-05-30</lastmod>
+    <lastmod>2017-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://apbiology.github.io/sources-and-information-used.html</loc>
     <lastmod>2017-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://apbiology.github.io/images/lol%20meme.jpg</loc>
+    <lastmod>2017-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

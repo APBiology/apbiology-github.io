@@ -53,6 +53,18 @@
     <lastmod>2017-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://github/apbiology.io/images/stratacolumnraytroll.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://github/apbiology.io/images/giraffe.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://github/apbiology.io/images/giraffe-crop-u1976.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://github/apbiology.io/images/giraffe-crop-u1983.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://github/apbiology.io/5.html</loc>
@@ -65,6 +77,21 @@
     <lastmod>2017-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://github/apbiology.io/images/dna-sequence-blast-screenshot.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://github/apbiology.io/images/embryology_1.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://github/apbiology.io/images/solnholfen-fish.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://github/apbiology.io/images/685148573_orig.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://github/apbiology.io/images/cladogram_c.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://github/apbiology.io/4.html</loc>

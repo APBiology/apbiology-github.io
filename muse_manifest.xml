@@ -1,22 +1,22 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github/apbiology.io" resolutions="1x" timestamp="1497613211008">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github/apbiology.io" resolutions="1x" timestamp="1497618065604">
   <folder name="assets">
     <file name="dragonfly_shutterstockrf_6899029_768_zh-cn.mp4" crc="437838094" seo="true" mt="1497595080000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="sources.css" crc="3820765646" ref="sources"/>
-    <file name="5.css" crc="406336939" ref="5"/>
-    <file name="the-exam.css" crc="4152685227" ref="the-exam"/>
-    <file name="1.css" crc="212895291" ref="1"/>
-    <file name="about-us.css" crc="4060155677" ref="about-us"/>
-    <file name="2.css" crc="3866535065" ref="2"/>
-    <file name="3.css" crc="7933790" ref="3"/>
-    <file name="4.css" crc="4053755013" ref="4"/>
-    <file name="index.css" crc="319216957" ref="index"/>
-    <file name="review-video.css" crc="3874509286" ref="review-video"/>
-    <file name="interview-with-edward.css" crc="446974333" ref="interview-with-edward"/>
-    <file name="documentary.css" crc="3874509286" ref="documentary"/>
-    <file name="master_a-master.css" crc="3766582081" ref="review-video:sources:5:the-exam:1:about-us:documentary:2:3:interview-with-edward:4:index"/>
+    <file name="sources.css" crc="301306295" ref="sources"/>
+    <file name="5.css" crc="240922699" ref="5"/>
+    <file name="the-exam.css" crc="4189792058" ref="the-exam"/>
+    <file name="1.css" crc="4241891456" ref="1"/>
+    <file name="about-us.css" crc="3862108655" ref="about-us"/>
+    <file name="2.css" crc="4242635800" ref="2"/>
+    <file name="3.css" crc="417241235" ref="3"/>
+    <file name="4.css" crc="344120470" ref="4"/>
+    <file name="index.css" crc="460764829" ref="index"/>
+    <file name="review-video.css" crc="3862108655" ref="review-video"/>
+    <file name="interview-with-edward.css" crc="4175870033" ref="interview-with-edward"/>
+    <file name="documentary.css" crc="3862108655" ref="documentary"/>
+    <file name="master_a-master.css" crc="47346311" ref="review-video:sources:5:the-exam:1:about-us:documentary:2:3:interview-with-edward:4:index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the-exam:sources:about-us:1:2:3:4:5:interview-with-edward:documentary:review-video"/>
@@ -29,9 +29,6 @@
     <file name="require.js" crc="4234670167" ref="index:the-exam:sources:about-us:1:2:3:4:5:interview-with-edward:documentary:review-video"/>
   </folder>
   <folder name="images">
-    <file name="u1000-65.png" crc="4286038155" ref="1"/>
-    <file name="u1041-39.png" crc="93212980" ref="2"/>
-    <file name="u1161-48.png" crc="3893193935" ref="3"/>
     <file name="u1303-26.png" crc="216108271" ref="4"/>
     <file name="u1444-15.png" crc="127660251" ref="5"/>
     <file name="henequencactus_en-us11064780489_1920x1200.jpg" crc="4089706578" seo="true" ref="index">
@@ -52,18 +49,49 @@
     <file name="evolution-of-cloud-data-warehousing.jpg" crc="140262987" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1525-8.png" crc="167744665" ref="index"/>
+    <file name="u1743-4.png" crc="300074743" ref="index:the-exam:sources:about-us:1:2:3:4:5:interview-with-edward:documentary:review-video"/>
+    <file name="u1724-4.png" crc="3960845003" ref="index:the-exam:sources:about-us:1:2:3:4:5:interview-with-edward:documentary:review-video"/>
+    <file name="u1737-4.png" crc="4266127140" ref="index:the-exam:sources:about-us:1:2:3:4:5:interview-with-edward:documentary:review-video"/>
+    <file name="u1729-4.png" crc="4002568689" ref="index:the-exam:sources:about-us:1:2:3:4:5:interview-with-edward:documentary:review-video"/>
+    <file name="u1715-4.png" crc="195878112" ref="index:the-exam:sources:about-us:1:2:3:4:5:interview-with-edward:documentary:review-video"/>
+    <file name="stratacolumnraytroll.jpg" crc="4123726704" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="giraffe.gif" crc="282353301" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="giraffe-crop-u1976.png" crc="4236913550" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="giraffe-crop-u1983.png" crc="370745204" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="dna-sequence-blast-screenshot.jpg" crc="410799716" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="embryology_1.gif" crc="219987888" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="solnholfen-fish.jpg" crc="4085361139" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="685148573_orig.jpg" crc="223911892" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="cladogram_c.jpg" crc="68507006" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4192244972" seo="true" mt="1497613174495" redirect="true"/>
-  <file name="the-exam.html" crc="132897023" seo="true" mt="1497610838195" redirect="true"/>
-  <file name="sources.html" crc="330279450" seo="true" mt="1497610838195" redirect="true"/>
-  <file name="about-us.html" crc="4099273358" seo="true" mt="1497610838195" redirect="true"/>
-  <file name="1.html" crc="3823631060" seo="true" mt="1497610838195" redirect="true"/>
-  <file name="2.html" crc="3900150088" seo="true" mt="1497610838195" redirect="true"/>
-  <file name="3.html" crc="317579310" seo="true" mt="1497610838195" redirect="true"/>
-  <file name="4.html" crc="130735437" seo="true" mt="1497610838195" redirect="true"/>
-  <file name="5.html" crc="3794556417" seo="true" mt="1497610838195" redirect="true"/>
-  <file name="interview-with-edward.html" crc="311110359" seo="true" mt="1497610838195" redirect="true"/>
-  <file name="documentary.html" crc="481620517" seo="true" mt="1497610838195" redirect="true"/>
-  <file name="review-video.html" crc="4026684511" seo="true" mt="1497610838195" redirect="true"/>
+  <file name="index.html" crc="4222099079" seo="true" mt="1497614849926" redirect="true"/>
+  <file name="the-exam.html" crc="4256899492" seo="true" mt="1497614805685" redirect="true"/>
+  <file name="sources.html" crc="4007304141" seo="true" mt="1497617554149" redirect="true"/>
+  <file name="about-us.html" crc="3986407217" seo="true" mt="1497614781985" redirect="true"/>
+  <file name="1.html" crc="455273847" seo="true" mt="1497618016883" redirect="true"/>
+  <file name="2.html" crc="479417052" seo="true" mt="1497614874761" redirect="true"/>
+  <file name="3.html" crc="9620887" seo="true" mt="1497617474825" redirect="true"/>
+  <file name="4.html" crc="3900636783" seo="true" mt="1497614781985" redirect="true"/>
+  <file name="5.html" crc="389130297" seo="true" mt="1497614781985" redirect="true"/>
+  <file name="interview-with-edward.html" crc="318588079" seo="true" mt="1497614781985" redirect="true"/>
+  <file name="documentary.html" crc="23947196" seo="true" mt="1497614781985" redirect="true"/>
+  <file name="review-video.html" crc="88202885" seo="true" mt="1497614781985" redirect="true"/>
 </manifest>

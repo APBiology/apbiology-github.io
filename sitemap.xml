@@ -31,6 +31,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://github/apbiology.io/3.html</loc>
+    <lastmod>2017-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://github/apbiology.io/images/dna-sequence-blast-screenshot.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://github/apbiology.io/images/embryology_1.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://github/apbiology.io/images/solnholfen-fish.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://github/apbiology.io/images/685148573_orig.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://github/apbiology.io/images/cladogram_c.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://github/apbiology.io/the-exam.html</loc>
     <lastmod>2017-06-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,7 +59,7 @@
   </url>
   <url>
     <loc>http://github/apbiology.io/sources.html</loc>
-    <lastmod>2017-06-16</lastmod>
+    <lastmod>2017-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -65,36 +86,12 @@
     <image:image>
       <image:loc>http://github/apbiology.io/images/giraffe-crop-u1983.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://github/apbiology.io/5.html</loc>
-    <lastmod>2017-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://github/apbiology.io/3.html</loc>
-    <lastmod>2017-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://github/apbiology.io/images/dna-sequence-blast-screenshot.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://github/apbiology.io/images/embryology_1.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://github/apbiology.io/images/solnholfen-fish.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://github/apbiology.io/images/685148573_orig.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://github/apbiology.io/images/cladogram_c.jpg</image:loc>
+      <image:loc>http://github/apbiology.io/images/alfred-russel-wallace-c1895.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://github/apbiology.io/4.html</loc>
+    <loc>http://github/apbiology.io/review-video.html</loc>
     <lastmod>2017-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -107,13 +104,31 @@
   </url>
   <url>
     <loc>http://github/apbiology.io/interview-with-edward.html</loc>
-    <lastmod>2017-06-16</lastmod>
+    <lastmod>2017-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://github/apbiology.io/review-video.html</loc>
-    <lastmod>2017-06-16</lastmod>
+    <loc>http://github/apbiology.io/extras.html</loc>
+    <lastmod>2017-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://github/apbiology.io/hardy-weinberg-equilbrium.html</loc>
+    <lastmod>2017-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://github/apbiology.io/evolution.html</loc>
+    <lastmod>2017-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://github/apbiology.io/assets/hardy-weinbergequilibriumsept2012_002(1).pdf</loc>
+    <lastmod>2017-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

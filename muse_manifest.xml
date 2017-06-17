@@ -1,7 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github/apbiology.io" resolutions="1x" timestamp="1497684903545">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="github/apbiology.io" resolutions="1x" timestamp="1497685515214">
   <folder name="assets">
     <file name="dragonfly_shutterstockrf_6899029_768_zh-cn.mp4" crc="437838094" seo="true" mt="1497595080000"/>
     <file name="hardy-weinbergequilibriumsept2012_002(1).pdf" crc="229847159" seo="true" mt="1497449611000"/>
+    <file name="bio.docx" crc="113836765" seo="true" mt="1496385507000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
@@ -16,9 +17,9 @@
     <file name="interview-with-edward.css" crc="453995921" ref="interview-with-edward"/>
     <file name="documentary.css" crc="3862108655" ref="documentary"/>
     <file name="master_a-master.css" crc="47346311" ref="review-video:sources:the-exam:1:about-us:documentary:2:3:interview-with-edward:index:hardy-weinberg-equilbrium:extras:evolution"/>
-    <file name="hardy-weinberg-equilbrium.css" crc="467818510" ref="hardy-weinberg-equilbrium"/>
+    <file name="hardy-weinberg-equilbrium.css" crc="360928790" ref="hardy-weinberg-equilbrium"/>
     <file name="extras.css" crc="240922699" ref="extras"/>
-    <file name="evolution.css" crc="4281389006" ref="evolution"/>
+    <file name="evolution.css" crc="3875705696" ref="evolution"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the-exam:sources:about-us:1:2:3:interview-with-edward:documentary:review-video:evolution:extras:hardy-weinberg-equilbrium"/>
@@ -96,7 +97,7 @@
   <file name="interview-with-edward.html" crc="493055286" seo="true" mt="1497682394674" redirect="true"/>
   <file name="documentary.html" crc="23947196" seo="true" mt="1497614781985" redirect="true"/>
   <file name="review-video.html" crc="88202885" seo="true" mt="1497614781985" redirect="true"/>
-  <file name="evolution.html" crc="162728767" seo="true" mt="1497683130199" redirect="true"/>
+  <file name="evolution.html" crc="3935680221" seo="true" mt="1497685503338" redirect="true"/>
   <file name="extras.html" crc="4117466022" seo="true" mt="1497682519609" redirect="true"/>
-  <file name="hardy-weinberg-equilbrium.html" crc="3998987037" seo="true" mt="1497684877318" redirect="true"/>
+  <file name="hardy-weinberg-equilbrium.html" crc="158112579" seo="true" mt="1497685358307" redirect="true"/>
 </manifest>

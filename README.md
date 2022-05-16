@@ -1,5 +1,5 @@
 # AP-Biology
-AP Biology Project (Brief look into AP Biology - Big Idea 1: Evolution)
+PROJECT NAME: AP Biology: A brief look into BIG IDEA 1: EVOLUTION
 
 June 2017:
 Feel free to reference the website as necessary.
